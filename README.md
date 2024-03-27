@@ -1,5 +1,5 @@
 # Linkedin Scraper
-
+LinkedIn Scraper scrapes username, Description, Contact info, Company name, and flexible enough to modify the proposed code to extract meaningful information. It uses Selenium library for data scraping along with chrome driver compatible with my windows ( you can replace according to your pc window version) to automatically login and scraping of user info from LinkedIn. Further, it uses Git Setup application to install desired libraries in VS code with virtual python environment.   
 Scrapes Linkedin User Data
 
 [Linkedin Scraper](#linkedin-scraper)
